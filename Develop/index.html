@@ -26,10 +26,11 @@
     <header class="p-5 mb-4 border-5 border-bottom border-dark text-center">
       <h1 class="display-3">Work Day Scheduler</h1>
       <p class="lead">A simple calendar app for scheduling your work day</p>
+      <div id="current-date"></div>
       <p id="currentDay" class="lead"></p>
     </header>
     <div class="container-lg px-5">
-
+      <!-- I opted to use a JS loop to create timeblocks, for more readable code -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script
       src="https://cdn.jsdelivr.net/npm/dayjs@1.11.3/dayjs.min.js"
