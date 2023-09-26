@@ -6,6 +6,8 @@
 - Ability to enter and save tasks or notes for each hour.
 - Uses Day.js for date and time manipulation.
 
+![screenshot](./screenshot/Screenshot%202023-09-25%20at%2010.23.33%20PM.png)
+
 ## Usage
 
 1. Open the web app in your browser.
@@ -19,7 +21,7 @@ Enjoy staying organized with this simple day planner!
 
 [GitHub](https://github.com/loganlosee/week5WorkDayScheduler)
 
-[DeployedApp]()
+[DeployedApp](https://loganlosee.github.io/week5WorkDayScheduler/)
 
 ## License
 
