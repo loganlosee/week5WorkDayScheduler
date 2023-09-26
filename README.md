@@ -6,7 +6,7 @@
 - Ability to enter and save tasks or notes for each hour.
 - Uses Day.js for date and time manipulation.
 
-![screenshot](./screenshot/Screenshot%202023-09-25%20at%2010.23.33%20PM.png)
+![screenshot](./assets/screenshot/Screenshot%202023-09-25%20at%2010.23.33%20PM.png)
 
 ## Usage
 
