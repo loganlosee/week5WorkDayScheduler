@@ -3,7 +3,7 @@ $(document).ready(function () {
   var currentDate = dayjs().format("MMMM D, YYYY");
 
   // Get the current hour using dayjs or write one in for testing
-  var currentHour = 12; //dayjs().hour();
+  var currentHour = dayjs().hour(); //12 (for testing!!)
   
     // Select the time block container by class
   var timeBlockContainer = document.querySelector(".container-lg.px-5");
